@@ -28,6 +28,7 @@ The goal is to support evidence-based decisions for aircraft acquisition by eval
 
 ## Dashboard Link
 [View Full Interactive Dashboard on Tableau Public](https://public.tableau.com/views/joram_phase_1_project_ipynb/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<img width="1584" height="642" alt="Aviation Risk Dashboard (1962–2023)  Identifying the safest aircraft for commercial operation" src="https://github.com/user-attachments/assets/4c631e33-28cf-4e7f-b5dc-0b53f2913f0e" />
 
 ## Author
 **Joram Lemaiyan Mugesa**
